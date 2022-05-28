@@ -14,7 +14,6 @@ public class Vault {
     static String path = "";
 
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         Scanner sc = new Scanner(System.in);
         System.out.print("请输入棋盘行数:");
         vault_row = sc.nextInt();
